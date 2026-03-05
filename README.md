@@ -119,8 +119,8 @@ Currently seeking an internship in Backend Development to leverage my technical 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khaledhajeid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Khaled's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledhajeid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Khaled's Top Langs" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khaledhajeid&theme=tokyo-night&bg_color=0D1117&color=4facfe&line=4facfe&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img src="https://raw.githubusercontent.com/khaledhajeid/khaledhajeid/output/github-contribution-grid-snake.svg" width="100%" onerror="this.style.display='none';" />
 </div>
 
 <br>
