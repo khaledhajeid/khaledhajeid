@@ -119,8 +119,12 @@ Currently seeking an internship in Backend Development to leverage my technical 
 ---
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khaledhajeid&theme=tokyo-night&bg_color=0D1117&color=4facfe&line=4facfe&point=FFFFFF&area=true&hide_border=true" width="100%" />
-<img src="https://raw.githubusercontent.com/khaledhajeid/khaledhajeid/output/github-contribution-grid-snake.svg" width="100%" onerror="this.style.display='none';" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khaledhajeid&theme=tokyo-night&bg_color=0D1117&color=4facfe&line=4facfe&point=FFFFFF&area=true&hide_border=true" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khaledhajeid/khaledhajeid/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khaledhajeid/khaledhajeid/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/khaledhajeid/khaledhajeid/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br>
